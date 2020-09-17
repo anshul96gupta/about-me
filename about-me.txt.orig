@@ -1,0 +1,15 @@
+My name is Anshul
+
+I like GIT
+
+Fav Animal is ___
+
+And 
+
+<<<<<<< HEAD
+Fav color is Blue
+=======
+Fav color is Red
+>>>>>>> master
+
+Copyright

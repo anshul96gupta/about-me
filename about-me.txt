@@ -6,10 +6,5 @@ Fav Animal is ___
 
 And 
 
-<<<<<<< HEAD
-Fav color is Blue
-=======
-Fav color is Red
->>>>>>> master
-
+Fav colors are blue and red
 Copyright
