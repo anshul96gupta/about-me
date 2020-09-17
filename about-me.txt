@@ -6,6 +6,6 @@ Fav Animal is ___
 
 And 
 
-Fav color is ___
+Fav color is Blue
 
 Copyright
